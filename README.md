@@ -1,6 +1,8 @@
 # Начало 
 Код для автоматизации роботы с Google (устоновка изоброжение)
 
+[![Watch the video](https://img.youtube.com/vi/vHmpEk-QKZk/maxresdefault.jpg)](https://youtu.be/vHmpEk-QKZk)
+
 Библеотека используется: <a href='https://pypi.org/project/icrawler/'>icrawler</a>
 ________________________
 
